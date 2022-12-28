@@ -1,0 +1,4 @@
+#Forecasting-carbon-price-using-a-novel-hybrid-model
+
+As global warming intensifies, carbon emission reduction is imminent. Carbon price is directly related to whether carbon can be effectively reduced, therefore, accurately forecasting carbon price has important practical significance. Aiming at the non-stationary and non-linear characteristics of carbon price, this paper proposes a novel hybrid model for forecasting carbon price, which is based on improved complete ensemble empirical mode decomposition with adaptive noise (ICEEMDAN), multiscale fuzzy entropy (MFE), complete ensemble empirical mode decomposition (CEEMD), improved random forest by salp swarm algorithm (SSARF), improved back propagation by cuckoo search (CSBP), improved extreme learning machine by whale optimization algorithm (WOAELM) and error correction (EC), named ICEEMDAN-MFE-CEEMD-SSARF-CSBP-WOAELM-EC.
+
